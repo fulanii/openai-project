@@ -10,7 +10,7 @@
 
 
 # Try Bot 
-I will be hosting the bot online soon for people to try out, in the meantime you can join my discord server and let me knwo you wanna try it, or you can download the code locally and get an [API key](https://openai.com/api/) and a [discord bot](https://discord.com/developers/docs/intro)
+I will be hosting the bot online soon for people to try out, in the meantime you can join my discord [server](https://discord.gg/cmDChyUEXB) and let me knwo you wanna try it, or you can download the code locally and get an [API key](https://openai.com/api/) and a [discord bot](https://discord.com/developers/docs/intro)
 
 # Bot Demo
 ![demo](demo.gif)
